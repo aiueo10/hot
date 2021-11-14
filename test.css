@@ -6,17 +6,27 @@ html {
 }
 
 body {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
+ 
+ 
 }
 
 .images {
-  margin:0 auto;
+  text-align :center;
 }
+
+.btn-line {
+
+  margin: 0 auto;
+  text-align :center;
+  width: 700px;
+}
+a {
+  text-align :center;
+}
+
 img {
   width: 100%;
-  height: auto;
-  margin: 0;
-  padding: 0px;
-  margin: 0px;
+  margin: 15px 0px;
 }
